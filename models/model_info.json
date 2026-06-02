@@ -1,0 +1,9 @@
+{
+    "input_size": 224,
+    "model_type": "CNN",
+    "classes": [
+        "non_cancer",
+        "cancer"
+    ],
+    "accuracy": 0.965954065322876
+}
