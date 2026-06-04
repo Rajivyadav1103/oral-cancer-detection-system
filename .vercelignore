@@ -1,0 +1,10 @@
+# Exclude large files and folders to reduce bundle size
+dataset/
+uploaded_images/
+node_modules/
+.git/
+*.ipynb
+__pycache__/
+.pytest_cache/
+.env
+.DS_Store
